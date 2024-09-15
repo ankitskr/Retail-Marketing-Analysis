@@ -24,7 +24,6 @@ As a data analyst, it is our challenge to understand the data, find business opp
 
 
 ## Working demonstration
-A working demonstration is provided in the notebooks folder.
-
+A working demonstration is provided in the notebooks folder: [notebooks/food_marketing_EDA.ipynb](https://github.com/ankitskr/food-marketing-analysis/blob/main/notebooks/food_marketing_EDA.ipynb)
 
 
