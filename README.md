@@ -1,4 +1,4 @@
-# Food Marketing Analysis
+# Retail Marketing Analysis
 
 ## Project Overview
 
